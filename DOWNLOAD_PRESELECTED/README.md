@@ -1,4 +1,8 @@
-Code and documentation of preselected pages from the ANNO corpus via the IIIF access.
+Code and documentation of preselected pages from the ANNO corpus via the IIIF access
+======================
+
+By Saranya Balasubramanian <saranya.balasubramanian@uni-graz.at>
+
 The pages were pre-selected by manually searching for some general patterns in every newspaper separetely. The full table is available on the JobAds Project Google Drive: https://docs.google.com/spreadsheets/d/1aNxN2O0FH36IX8WGCR2WMviyki6A-fcp2Ma4JynFX60/edit#gid=0. The downloaded data is available on the Uni-Graz Cloud: https://cloud.uni-graz.at/s/PFfxma38yKf2KM6.
 
 Note: The code contains credentials to the OeNB API which should not be shared with anybody not involved in the project.

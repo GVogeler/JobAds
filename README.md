@@ -8,6 +8,6 @@ The project team consists of:
 - Georg Vogeler, University of Graz
 - Wiltrud Mölzer, University of Graz
 - Klára Venglařová, University of Graz
-- Sarany Balasubramanian, University of Graz
+- Saranya Balasubramanian, University of Graz
 - Raven Adam, University of Graz
 - Meike Linneswedel, University of Graz
